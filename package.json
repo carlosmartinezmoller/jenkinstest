@@ -2,7 +2,7 @@
   "name": "mathapi",
   "version": "1.0.0",
   "description": "An API that offers the add function",
-  "main": "add.js",
+  "main": "maths.js",
   "scripts": {
     "test": "npx mocha"
   },
